@@ -4,7 +4,7 @@
 
 **Date:** 08/2014
 
-### **DESCRIPTION:**
+#### **DESCRIPTION:**
 
 Script para Matéria de Estatística, capaz de calcular: 
 - Média Processo Normal
